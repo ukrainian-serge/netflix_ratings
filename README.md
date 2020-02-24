@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./netflix.png" alt="logo" width="500" height="325"/>
+    <img src="./netflix.png" alt="logo" width="1024" height="475"/>
 </p>
 
 # Netflix rating data exploration
