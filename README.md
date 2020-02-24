@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="./netflix.png" alt="logo" width="500" height="325"/>
+</p>
+
 # Netflix rating data exploration
 *Analysis of ratings using pandas and `data.world` package for dataset version control*
 
